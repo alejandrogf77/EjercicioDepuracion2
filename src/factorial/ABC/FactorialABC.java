@@ -3,7 +3,7 @@ import java.util.*;
 public class FactorialABC {
 
 	public static void main(String[] args) {
-		//TODO: realizar cambios //
+		//TODO:realizar cambios// 
 		 // Crear un escáner para leer la entrada del usuario
 		 Scanner scanner = new Scanner(System.in);
 
